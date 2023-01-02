@@ -1,0 +1,41 @@
+
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¶Ø¼ò
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(„º±Œÿÿÿÿÿ
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(•ëËç
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(×ñúøÿÿÿÿ
+S	java:S106Q"9Replace this use of System.out or System.err by a logger.(ƒ»¸Ùøÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(øçàÔùÿÿÿÿ
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(»ÛœÒüÿÿÿÿ8ó‹ıÒÕ0
+d
+java:S5361š"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ß…»ˆûÿÿÿÿ
+d
+java:S5361©"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ß…»ˆûÿÿÿÿ
+r
+java:S1192"\Define a constant instead of duplicating this literal "-----BEGIN PUBLIC KEY-----
+" 3 times.(ÌÏ“ø
+z
+java:S1488|"eImmediately return this expression instead of assigning it to the temporary variable "jweCipherText".(Ã¾³
+{
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "jweCipherText".(Ã¾³
+h
+java:S1104"RMake aesKek a static final constant or non-public and provide accessors if needed.(…ô¢î
+k
+java:S1104"UMake publicKey a static final constant or non-public and provide accessors if needed.(ÌÏ“ø
+l
+java:S1104"VMake privateKey a static final constant or non-public and provide accessors if needed.(‹––Õ
+n
+java:S11048"XMake eccPublicKey a static final constant or non-public and provide accessors if needed.(ëØœÂ
+t
+java:S1104<"YMake eccPrivateKey a static final constant or non-public and provide accessors if needed.(öôìÎşÿÿÿÿ
+B
+java:S1444",Make this "public static aesKek" field final(…ô¢î
+E
+java:S1444"/Make this "public static publicKey" field final(ÌÏ“ø
+F
+java:S1444"0Make this "public static privateKey" field final(‹––Õ
+H
+java:S14448"2Make this "public static eccPublicKey" field final(ëØœÂ
+N
+java:S1444<"3Make this "public static eccPrivateKey" field final(öôìÎşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
